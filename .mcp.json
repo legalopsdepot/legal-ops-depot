@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "legal-ops-depot": {
+      "type": "http",
+      "url": "https://mcp.legalopsdepot.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "legal-ops-depot",
+  "version": "0.2.0",
+  "description": "Free law library for AI assistants: U.S. court rules, statutes, regulations, constitutions and 10 million+ court decisions with overruled flags, from Legal Ops Depot. Quotes the source text with links; not legal advice.",
+  "mcpServers": {
+    "legal-ops-depot": {
+      "httpUrl": "https://mcp.legalopsdepot.com/mcp"
+    }
+  }
+}
